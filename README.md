@@ -45,3 +45,10 @@
  - Education: A Level French, English, Maths, Music
  - Used to be fluent in French. Still possess a reasonable level of comprehension
  - Based in London
+
+## Contact me
+
+ - [Email](mailto:elliott.landsborough@gmail.com)
+ - [Linkedin](https://www.linkedin.com/in/elliottlandsborough)
+ - [Email Form](http://kontactr.com/user/elliottlandsborough)
+ 
