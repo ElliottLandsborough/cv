@@ -48,7 +48,6 @@
 
 ## Contact me
 
- - [Email elliott.landsborough@gmail.com](&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;%65%6c%6c%69%6f%74%74.%6c%61%6e%64%73%62%6f%72%6f%75%67%68@%67%6d%61%69%6c.%63%6f%6d)
+ - [elliott.landsborough@gmail.com](mailto:elliott.landsborough@gmail.com)
+ - [Email form](http://kontactr.com/user/elliottlandsborough)
  - [Linkedin](https://www.linkedin.com/in/elliottlandsborough)
- - [Email Form](http://kontactr.com/user/elliottlandsborough)
- 
