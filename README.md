@@ -1,7 +1,8 @@
 # Elliott Landsborough
 
 ### Skills
- - PHP: Laravel 4 and 5, Codeigniter
+ - PHP, Object oriented development mostly using MVC frameworks, trying to maintain SOLID & DRY principles
+ - Laravel 4 and 5, Codeigniter
  - MySQL, MariaDB, Elastic Search
  - Amazon AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant
  - Git user, experienced with Mercurial and SVN
