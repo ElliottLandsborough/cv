@@ -42,5 +42,5 @@
 ## Other Info
 
  - Education: A Level French, English, Maths, Music
- - Used to be fluent in French. Still posess a reasonable level of comprehension
+ - Used to be fluent in French. Still possess a reasonable level of comprehension
  - Based in London
