@@ -32,7 +32,7 @@
 
  - [Jack Morton](http://www.jackmorton.com/), Various government contracts
  - [Theorem Creations](http://www.theoreminc.net/), Developing micro-sites for various clients
- - [TBG Digital](http://www.tbgdigital.com), Codeigniter develoipment
+ - [TBG Digital](http://www.tbgdigital.com), Codeigniter development
 
 ####[CIE, Cambridge university](http://www.cie.org.uk/), 2008-2010, Assistant Web Developer
 
