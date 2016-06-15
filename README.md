@@ -21,7 +21,7 @@
 
 ####[Umi Digital](http://umidigital.co.uk/) - 2013 - July 2015 - Senior Developer and Server Administrator
 
- - Development of many projects wusing Laravel, Codeigniter, Cake PHP and Wordpress.
+ - Development of many projects using Laravel, Codeigniter, Cake PHP and Wordpress.
  - Responsible for delegating tasks to other developers.
  - Maintenance of servers both dedicated and Rackspace/EC2.
  - Collaboration using Git and Mercurial.
