@@ -4,7 +4,7 @@
  - PHP, Object oriented development mostly using MVC frameworks, trying to maintain SOLID & DRY principles
  - Laravel 4 and 5, Codeigniter
  - MySQL, MariaDB, Elastic Search
- - Amazon AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant
+ - Amazon AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
  - Git user, experienced with Mercurial and SVN
  - Client side: HTML5, CSS, JS, Json APIs, Gulp, Grunt, Elixir
  - Experience with TDD
