@@ -14,7 +14,7 @@
 
 ####[Codegent](http://www.codegent.com) & [Thinmartian](http://www.thinmartian.net), July 2015 - Present, Backend Developer, Full Stack Developer
 
- - Maintenance and development of many websites including [Tepilo](http://www.tepilo.com), [World of Warriors](https://www.worldofwarriors.com), [Skechers](https://www.skechers.com/en-gb) and [Screencloud](https://screen.cloud/)
+ - Maintenance and development of many websites including [rent-hub](http://www.rent-hub.co.uk), [Tepilo](http://www.tepilo.com), [World of Warriors](https://www.worldofwarriors.com), [Skechers](https://www.skechers.com/en-gb) and [Screencloud](https://screen.cloud/)
  - Server maintenance on EC2, Digital Ocean and CentOS Dedicated.
  - Laravel 4/5 and Codeigniter, Vue.js, Deployment with Fabric, Vagrant, Capistrano and Envoy
  - Working with a team of developers using Git flow
