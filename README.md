@@ -12,15 +12,15 @@
 
 ### Experience
 
-####[Codegent](http://www.codegent.com) & [Thinmartian](http://www.thinmartian.net), July 2015 - Present, Backend Developer, Full Stack Developer
+####[Codegent](http://www.codegent.com) & [Thinmartian](https://www.thinmartian.com/), July 2015 - Present, Backend Developer, Full Stack Developer
 
- - Maintenance and development of many websites including [rent-hub](http://www.rent-hub.co.uk), [Tepilo](http://www.tepilo.com), [World of Warriors](https://www.worldofwarriors.com), [Skechers](https://www.skechers.com/en-gb) and [Screencloud](https://screen.cloud/)
+ - Maintenance and development of many websites including [rent-hub](https://rent-hub.co.uk), [thinmartian](https://www.thinmartian.com), [Tepilo](https://www.tepilo.com), [World of Warriors](https://www.worldofwarriors.com), [Skechers](https://www.skechers.com/en-gb) and [Screencloud](https://screen.cloud/)
  - Server maintenance on EC2, Digital Ocean and CentOS Dedicated.
  - Laravel 4/5 and Codeigniter, Vue.js, Deployment with Fabric, Vagrant, Capistrano and Envoy
  - Working with a team of developers using Git flow
  - Front end development using bootstrap, gulp, sass
 
-####[Umi Digital](http://umidigital.co.uk/) - 2013 - July 2015 - Senior Developer and Server Administrator
+####[Umi Digital](https://umidigital.co.uk) - 2013 - July 2015 - Senior Developer and Server Administrator
 
  - Development of many projects using Laravel, Codeigniter, Cake PHP and Wordpress.
  - Responsible for delegating tasks to other developers.
