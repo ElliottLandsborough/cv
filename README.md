@@ -12,7 +12,13 @@
 
 ### Experience
 
-#### [Codegent](http://www.codegent.com) & [Thinmartian](https://www.thinmartian.com/), July 2015 - Present, Backend Developer, Full Stack Developer
+#### [WGC LTD](http://wgc.ltd.uk), January 2017 - Present, Backend Developer and Server Administrator
+
+ - Maintenance & development of wgc.ltd.uk and internal admin sites.
+ - Server maintenance - CentOS, Plex, EC2 & RDS
+ - Laravel 5
+
+#### [Codegent](http://www.codegent.com) & [Thinmartian](https://www.thinmartian.com/), July 2015 - December 2017, Backend Developer, Full Stack Developer
 
  - Maintenance and development of many websites including [rent-hub](https://rent-hub.co.uk), [thinmartian](https://www.thinmartian.com), [Tepilo](https://www.tepilo.com), [World of Warriors](https://www.worldofwarriors.com), [Skechers](https://www.skechers.com/en-gb) and [Screencloud](https://screen.cloud/)
  - Server maintenance on EC2, Digital Ocean and CentOS Dedicated.
