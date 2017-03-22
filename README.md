@@ -1,4 +1,4 @@
-# Elliott Landsborough
+# Elliott Landsborough [PDF](https://gitprint.com/ElliottLandsborough/CV/blob/master/README.md)
 
 ### Skills
  - PHP, Object oriented development mostly using MVC frameworks, trying to maintain SOLID & DRY principles
