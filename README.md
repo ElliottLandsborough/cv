@@ -1,4 +1,4 @@
-# Elliott Landsborough [PDF](https://gitprint.com/ElliottLandsborough/CV/blob/master/README.md)
+# Elliott Landsborough
 
 ### Skills
  - PHP, Object oriented development mostly using MVC frameworks, trying to maintain SOLID & DRY principles
@@ -51,6 +51,7 @@
  - Education: A Level French, English, Maths, Music
  - Used to be fluent in French. Still possess a reasonable level of comprehension
  - Based in London
+ - [Download CV as PDF](https://gitprint.com/ElliottLandsborough/CV/blob/master/README.md)
 
 ## Contact me
 
