@@ -56,5 +56,6 @@
 ## Contact me
 
  - [elliott.landsborough@gmail.com](mailto:elliott.landsborough@gmail.com)
+ - [Keybase](https://keybase.io/elliottlan)
  - [Email form](http://kontactr.com/user/elliottlandsborough)
  - [Linkedin](https://www.linkedin.com/in/elliottlandsborough)
