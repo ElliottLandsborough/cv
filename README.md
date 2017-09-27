@@ -12,7 +12,7 @@
 
 ### Experience
 
-#### [BPL Marketing](http://www.bplmarketing.com) August 2017, Backend Developer
+#### [BPL Marketing](http://www.bplmarketing.com), August 2017, Backend Developer
 
  - Freelance Project
  - Wordpress, CentOS, Git
