@@ -12,6 +12,17 @@
 
 ### Experience
 
+#### [BPL Marketing](http://www.bplmarketing.com) August 2017, Backend Developer
+
+ - Freelance Project
+ - Wordpress, CentOS, Git
+
+#### [WGC LTD](https://wgc.ltd.uk), January 2017 - June 2017, Backend Developer
+
+ - Maintenance and development of main internal site.
+ - EC2, CentOS
+ - PHP, MySQL, Laravel, Git
+
 #### [Codegent](http://www.codegent.com) & [Thinmartian](https://www.thinmartian.com/), July 2015 - December 2016, Backend Developer, Full Stack Developer
 
  - Maintenance and development of many websites including [rent-hub](https://rent-hub.co.uk), [thinmartian](https://www.thinmartian.com), [Tepilo](https://www.tepilo.com), [World of Warriors](https://www.worldofwarriors.com), [Skechers](https://www.skechers.com/en-gb) and [Screencloud](https://screen.cloud/)
