@@ -2,7 +2,7 @@
 
 ### Skills
  - PHP, Object oriented development mostly using MVC frameworks, trying to maintain SOLID & DRY principles
- - Laravel 4 and 5, Codeigniter
+ - Laravel 5, Codeigniter
  - MySQL, MariaDB, Elastic Search
  - Javascript, React, Flux, Node, Webpack, Vue
  - Amazon AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
