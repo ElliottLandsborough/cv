@@ -17,7 +17,7 @@
  - Freelance Project
  - Wordpress, CentOS, Git
 
-#### [WGC LTD](https://wgc.ltd.uk), January 2017 - June 2017, Backend Developer
+#### [WGC LTD](https://wgc.ltd.uk), January 2017 - April 2017, Backend Developer
 
  - Maintenance and development of main internal site.
  - EC2, CentOS
