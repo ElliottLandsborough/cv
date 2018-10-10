@@ -6,7 +6,7 @@
  - MySQL, MariaDB, Elastic Search
  - Javascript, React, Flux, Node, Webpack, Vue
  - Amazon AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
- - Git user, experienced with Mercurial and SVN
+ - Git, experienced with Mercurial and SVN
  - Client side: HTML5, CSS, jQuery, Json APIs, Gulp, Grunt, Elixir
  - Experience with TDD
 
@@ -14,7 +14,7 @@
 
 #### [BPL Marketing](http://www.bplmarketing.com), August 2017 - Present, Backend Developer
 
- - Linux, Git, PHP, MySQL, MODx, Laravel, Yii, Wordpress, Vue.js
+ - Linux, Git, PHP, MySQL, MODx, Laravel, Yii, Wordpress, Vue.js, Node, AWS (Lambda, EC2, Dynamo, RDS, )
 
 #### [WGC LTD](https://wgc.ltd.uk), January 2017 - April 2017, Backend Developer
 
