@@ -1,14 +1,13 @@
 # Elliott Landsborough
 
 ### Skills
- - PHP, Object oriented development mostly using MVC frameworks, trying to maintain SOLID & DRY principles
- - Laravel 5, Codeigniter, Yii
+ - PHP7+ Frameworks including Laravel 5, object oriented (Codeigniter, Yii, CakePHP)
  - MySQL, MariaDB, Elastic Search
- - Javascript, React, Flux, Node, Webpack, Vue
- - Amazon AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
+ - Javascript, React, Node, Vue
+ - AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
  - Git, experienced with Mercurial and SVN
+ - Unit testing, CI
  - Client side: HTML5, CSS, jQuery, Json APIs, Gulp, Grunt, Elixir
- - Experience with TDD
 
 ### Experience
 
@@ -28,38 +27,21 @@
  - Server maintenance on EC2, Digital Ocean and CentOS Dedicated.
  - Laravel 4/5 and Codeigniter, Vue.js, Deployment with Fabric, Vagrant, Capistrano and Envoy
  - Working with a team of developers using Git flow
- - Front end development using bootstrap, gulp, sass
+ - Front end development using bootstrap, gulp, sass, React
 
 #### [Umi Digital](https://umidigital.co.uk) - 2013 - July 2015 - Senior Developer and Server Administrator
 
  - Development of many projects using Laravel, Codeigniter, Cake PHP and Wordpress.
  - Responsible for delegating tasks to other developers.
- - Maintenance of servers both dedicated and Rackspace/EC2.
+ - Maintenance of dedicated servers and Rackspace/EC2.
  - Collaboration using Git and Mercurial.
  - Client communication and technical scoping.
  - Deployment using Capistrano
 
-#### Freelance Web Developer, 2010-2013, Contractor for various small - medium clients
+## Other info & contact
 
- - [Jack Morton](http://www.jackmorton.com/), Various government contracts
- - [Theorem Creations](http://www.theoreminc.net/), Developing micro-sites for various clients
- - [TBG Digital](http://www.tbgdigital.com), Codeigniter development
-
-#### [CIE, Cambridge university](http://www.cie.org.uk/), 2008-2010, Assistant Web Developer
-
- - Maintenance of many company websites both internal and external.  
- - Redhat Linux, HTML/CSS/PHP/SVN
-
-## Other Info
-
- - Education: A Level French, English, Maths, Music
- - Used to be fluent in French. Still possess a reasonable level of comprehension
  - Based in London
  - [Download CV as PDF](https://gitprint.com/ElliottLandsborough/CV/blob/master/README.md)
-
-## Contact me
-
  - [elliott.landsborough@gmail.com](mailto:elliott.landsborough@gmail.com)
  - [Keybase](https://keybase.io/elliottlan)
- - [Email form](http://kontactr.com/user/elliottlandsborough)
  - [Linkedin](https://www.linkedin.com/in/elliottlandsborough)
