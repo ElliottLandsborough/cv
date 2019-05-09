@@ -1,7 +1,7 @@
 # Elliott Landsborough
 
 ### Skills
- - PHP7+ Frameworks including Laravel 5, object oriented (Codeigniter, Yii, CakePHP)
+ - PHP7+ Frameworks including Laravel 5.8, object oriented (Codeigniter, Yii, CakePHP)
  - MySQL, MariaDB, Elastic Search
  - Javascript, React, Node, Vue
  - AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
@@ -13,7 +13,7 @@
 
 #### [BPL Marketing](http://www.bplmarketing.com), August 2017 - Present, Backend Developer
 
- - Linux, Git, PHP, MySQL, MODx, Laravel, Yii, Wordpress, Vue.js, Node, AWS (Lambda, EC2, Dynamo, RDS, S3)
+ - Linux, Git, PHP, MySQL, MODx, Laravel, Yii, Wordpress, React, Vue.js, Node, AWS (Lambda, EC2, Dynamo, RDS, S3)
 
 #### [WGC LTD](https://wgc.ltd.uk), January 2017 - April 2017, Backend Developer
 
