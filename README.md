@@ -13,7 +13,7 @@
 
 #### [BPL Marketing](http://www.bplmarketing.com), August 2017 - Present, Backend Developer
 
- - Linux, Git, PHP, MySQL, MODx, Laravel, Yii, Wordpress, React, Vue.js, Node, AWS (Lambda, EC2, Dynamo, RDS, S3)
+ - Linux, Git, PHP, MySQL, MODx, Laravel, Yii, React, Vue.js, Node, AWS (Lambda, EC2, Dynamo, RDS, S3)
 
 #### [WGC LTD](https://wgc.ltd.uk), January 2017 - April 2017, Backend Developer
 
