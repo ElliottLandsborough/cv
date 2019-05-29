@@ -12,6 +12,7 @@ I consider myself to be a fast learner and I strive to be a polyglot. I enjoy sc
  - PHP7+ Frameworks including Laravel 5.8, object oriented (Symfony, Codeigniter, Yii, CakePHP)
  - MySQL, MariaDB, Elastic Search
  - JavaScript, ES6+, React, Node, Vue, Vanilla
+ - OOP principles & design patterns (DRY/SOLID)
  - AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
  - Git, experienced with Mercurial and SVN
  - Unit testing, CI
