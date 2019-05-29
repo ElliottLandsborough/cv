@@ -23,7 +23,7 @@ I consider myself to be a fast learner and I strive to be a polyglot. I enjoy sc
 #### [BPL Marketing](http://www.bplmarketing.com), August 2017 - Present, Backend Developer, Ops, Sometimes full stack
 
  - Small team of developers/designers creating and maintaining client projects of various sizes
- - Collaboration with remote workers using git and online tools like trello and slack
+ - Collaboration with remote workers using git and online tools like Trello and Slack
  - Meeting tight deadlines and managing scope changes
  - Ensuring services stay online, dealing with security issues
  - Linux, Git, PHP, MySQL, MODx, Laravel 5, Yii, React, Vue.js, Node, AWS (Lambda, EC2, Dynamo, RDS, S3, Cloudwatch)
