@@ -2,11 +2,11 @@
 
 ### Intro
 
-I have worked as a PHP developer for over six years (Laravel 5/4, Codeigniter, Symfony) and more recently as a modern JavaScript developer (ES6+, React, Vue). Having worked with most popular Linux distributions as far back as Etch, I am very proficient at the ‘ops’ side too - both in Linux setup and more modern technologies like Docker. I have extensive experience in HTML, CSS and ‘old’ JavaScript (e.g jQuery) too.
+I have worked as a PHP developer for over six years (Laravel 5, Symfony) and more recently as a modern JavaScript developer (ES6+, React, Vue). Having worked with most popular Linux distributions as far back as Etch, I am very proficient at the ‘ops’ side too - both in Linux setup and more modern technologies like Docker. I have extensive experience in HTML, CSS and ES5/jQuery too.
 
 I am passionate about keeping up with the latest technologies outside of the workplace and I regularly contribute to open source projects along with maintaining my own.
 
-I consider myself to be a fast learner and I strive to be a polyglot. I have always had an interest in python and node but have not yet had the opportunity to use them in a professional capacity.
+I consider myself to be a fast learner and I strive to be a polyglot. I enjoy scripting in python and have used node for personal projects but have not yet had the opportunity to use either of them in a professional capacity.
 
 ### Skills
  - PHP7+ Frameworks including Laravel 5.8, object oriented (Symfony, Codeigniter, Yii, CakePHP)
