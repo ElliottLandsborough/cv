@@ -2,7 +2,7 @@
 
 ### Intro
 
-I have worked as a PHP developer for over six years (Laravel 5/4, Codeigniter, Symfony) and more recently as a modern javascript developer (ES6+, React, Vue). Having worked with most popular linux distributions as far back as Debian Etch, I am very proficient at the ‘ops’ side too - both in linux setup and more modern technologies like docker. I have extensive experience in HTML, CSS and ‘old’ javascript (e.g jQuery) too.
+I have worked as a PHP developer for over six years (Laravel 5/4, Codeigniter, Symfony) and more recently as a modern javascript developer (ES6+, React, Vue). Having worked with most popular Linux distributions as far back as Etch, I am very proficient at the ‘ops’ side too - both in Linux setup and more modern technologies like Docker. I have extensive experience in HTML, CSS and ‘old’ javascript (e.g jQuery) too.
 
 I am passionate about keeping up up with the latest technologies outside of the workplace and I regularly contribute to open source projects along with maintaining my own.
 
