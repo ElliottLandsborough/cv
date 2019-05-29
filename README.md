@@ -1,5 +1,13 @@
 # Elliott Landsborough
 
+### Intro
+
+I have worked as a PHP developer for over six years (Laravel 5/4, Codeigniter, Symfony) and more recently as a modern javascript developer (ES6+, React, Vue). Having worked with most popular linux distributions as far back as Debian Etch, I am very proficient at the ‘ops’ side too - both in linux setup and more modern technologies like docker. I have extensive experience in HTML, CSS and ‘old’ javascript (e.g jQuery) too.
+
+I am passionate about keeping up up with the latest technologies outside of the workplace and I regularly contribute to open source projects along with maintaining my own.
+
+I consider myself to be a fast learner and I strive to be a polyglot. I have always had an interest in python and node but have not yet had the opportunity to use them in a professional capacity.
+
 ### Skills
  - PHP7+ Frameworks including Laravel 5.8, object oriented (Codeigniter, Yii, CakePHP)
  - MySQL, MariaDB, Elastic Search
