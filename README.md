@@ -9,13 +9,13 @@ I am passionate about keeping up with the latest technologies outside of the wor
 I consider myself to be a fast learner and I strive to be a polyglot. I have always had an interest in python and node but have not yet had the opportunity to use them in a professional capacity.
 
 ### Skills
- - PHP7+ Frameworks including Laravel 5.8, object oriented (Codeigniter, Yii, CakePHP)
+ - PHP7+ Frameworks including Laravel 5.8, object oriented (Symfony, Codeigniter, Yii, CakePHP)
  - MySQL, MariaDB, Elastic Search
- - JavaScript, React, Node, Vue
+ - JavaScript, ES6+, React, Node, Vue, Vanilla
  - AWS, Digital Ocean, Rackspace, CentOS, Debian, Bash, SSH, Puppet, Fabric, Vagrant, Heroku
  - Git, experienced with Mercurial and SVN
  - Unit testing, CI
- - Client side: HTML5, CSS, jQuery, Json APIs, Gulp, Grunt, Elixir
+ - Client side: HTML5, CSS, jQuery, Json APIs, Gulp, Oauth
 
 ### Experience
 
