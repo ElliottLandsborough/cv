@@ -54,7 +54,6 @@ I consider myself to be a fast learner and I strive to be a polyglot. I enjoy sc
 ## Other info & contact
 
  - Based in London
- - [Download CV as PDF](https://gitprint.com/ElliottLandsborough/CV/blob/master/README.md)
  - [elliott.landsborough@gmail.com](mailto:elliott.landsborough@gmail.com)
  - [Keybase](https://keybase.io/elliottlan)
  - [Linkedin](https://www.linkedin.com/in/elliottlandsborough)
