@@ -24,7 +24,7 @@ I consider myself to be a fast learner and I strive to be a polyglot. I enjoy sc
 
  - Team of 6 developers maintaining API and internal tools for Muzmatch Mobile Apps, over 3 million users
  - Working on-site and remote
- - ECS/Fargate, EC2 Auto Scaling, RDS, S3, Cloudwatch, Lambda, Elsaticache
+ - ECS/Fargate, EC2 Auto Scaling, RDS, S3, Cloudwatch, Lambda
  - MariaDB, PHP7+, Docker, Node, CircleCI, Cypress, PHPUnit, Redis, Elasticsearch, git, Vue, Python
 
 #### [BPL Marketing](http://www.bplmarketing.com), August 2017 - October 2019, Backend Developer, Ops, Sometimes full stack
