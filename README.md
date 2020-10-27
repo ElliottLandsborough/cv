@@ -20,7 +20,14 @@ I consider myself to be a fast learner and I strive to be a polyglot. I enjoy sc
 
 ### Experience
 
-#### [BPL Marketing](http://www.bplmarketing.com), August 2017 - Present, Backend Developer, Ops, Sometimes full stack
+#### [Muzmatch](https://muzmatch.com), November 2019 - Present, Senior Devops / Team Lead
+
+ - Team of 6 developers maintaining API and internal tools for Muzmatch Mobile Apps, over 3 million users
+ - Working on-site and remote
+ - ECS/Fargat, EC2, RDS, S3, Cloudwatch, Lambda, Elsaticache
+ - MariaDB, PHP7+, Docker, Auto Scaling, Node, CircleCI, Cypress, PHPUnit, Redis, Elasticsearch, git, Vue, Python
+
+#### [BPL Marketing](http://www.bplmarketing.com), August 2017 - October 2019, Backend Developer, Ops, Sometimes full stack
 
  - Small team of developers/designers creating and maintaining client projects of various sizes
  - Collaboration with remote workers using git and online tools like Trello and Slack
